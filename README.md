@@ -5,22 +5,22 @@ This chatbot can answer over **1,000+ logical, educational, and everyday questio
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project was developed as part of the **CodeAlpha Internship Program** to demonstrate Natural Language Processing (NLP) and Machine Learning integration in real-world applications.  
 The chatbot uses **TF-IDF Vectorization** and **Cosine Similarity** to understand user questions and match them with the most relevant answers from a large FAQ dataset.
 
 It’s a simple, local AI assistant that can:
 
-- 💬 Chat about education, AI, tech, and everyday topics  
-- 🎓 Help with motivation, careers, and learning  
-- 🤖 Answer general knowledge and random fun questions  
-- 🧠 Understand natural language inputs  
-- 🪄 Run fully offline — no API needed  
+-  Chat about education, AI, tech, and everyday topics  
+-  Help with motivation, careers, and learning  
+-  Answer general knowledge and random fun questions  
+-  Understand natural language inputs  
+-  Run fully offline — no API needed  
 
 ---
 
-## 🧩 Features
+## Features
 
 ✅ Clean chat interface using **Streamlit’s Chat Components**  
 ✅ Supports **over 1,000+ question-answer pairs**  
@@ -31,7 +31,7 @@ It’s a simple, local AI assistant that can:
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Streamlit** – for web UI  
@@ -40,4 +40,3 @@ It’s a simple, local AI assistant that can:
 
 ---
 
-## 📂 Project Structure
