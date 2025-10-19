@@ -22,12 +22,12 @@ It’s a simple, local AI assistant that can:
 
 ## Features
 
-✅ Clean chat interface using **Streamlit’s Chat Components**  
-✅ Supports **over 1,000+ question-answer pairs**  
-✅ Uses **TF-IDF + Cosine Similarity** for smart response matching  
-✅ Memory-enabled — remembers conversation during the session  
-✅ Lightweight and fast — no external AI API required  
-✅ Easy to expand — just add new Q&A pairs in `faq_data.py`  
+ Clean chat interface using **Streamlit’s Chat Components**  
+ Supports **over 1,000+ question-answer pairs**  
+ Uses **TF-IDF + Cosine Similarity** for smart response matching  
+ Memory-enabled — remembers conversation during the session  
+ Lightweight and fast — no external AI API required  
+ Easy to expand — just add new Q&A pairs in `faq_data.py`  
 
 ---
 
@@ -39,4 +39,5 @@ It’s a simple, local AI assistant that can:
 - **scikit-learn** – for TF-IDF and similarity computation  
 
 ---
+
 
